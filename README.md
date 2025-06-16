@@ -1,5 +1,5 @@
 Performance Enhancement of CPU Using New Geometry Heat Sinks
-B.Tech Major Project
+(B.Tech Major Project)
 
 Developed and evaluated an innovative triangular honeycomb heat sink geometry aimed at improving the thermal management of CPUs. The design focused on increasing heat dissipation efficiency through enhanced surface area and airflow-induced turbulence, resulting in better convective heat transfer compared to conventional straight-fin heat sinks.
 
